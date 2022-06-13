@@ -1,50 +1,34 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FEFEFE&height=250&section=header&text=Schedule&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 
-<h4 align="center">
-  :white_check_mark: 2022-06-18을 1주차 기준으로 5주차 마다 업데이트 예정 </br> </br>
-  :white_check_mark: 알고리즘 문제 풀이 작성 요령 및 마크다운은 아래를 통해서 확인 
-</h4>
 
-[여기](#파일작성법)
+> :white_check_mark: 2022-06-18을 1주차 기준으로 5주차 마다 업데이트 예정 </br> </br>
+> :white_check_mark: 알고리즘 문제 풀이 작성 요령 및 마크다운은 아래를 통해서 확인 </br>
+> :white_check_mark: [파일작성요령](https://github.com/PandoraBoxAlgorithm/-/blob/main/%ED%8C%8C%EC%9D%BC%EC%9E%91%EC%84%B1%EB%B2%95.md)
 
-<h3 align="center">
-  📢 1주차 (2022-06-18) 📢
-</h4>
-<h4 align="center">
-  
-  
-</h4>
 
-<h3 align="center">
-  📢 2주차 (2022-06-25) 📢
-</h4>
-<h4 align="center">
-  
-  
-</h4>
+  ### 📢 1주차 (2022-06-18) 📢
 
-<h3 align="center">
-  📢 3주차 (2022-07-02) 📢
-</h4>
-<h4 align="center">
-  
-  
-</h4>
+ ✳️ 문제 내용은 해당 [여기](https://zerocho.com/category/Algorithm/post/5b7bf396b35bf5001b940dc5) 에서 확인 </br></br>
+  ✔️ 124 나라의 숫자 </br> 
+  ✔️ 가장 큰 정사각형 찾기 </br> 
+  ✔️ 올바른 괄호  </br>
+  ✔️ 다음 큰 숫자  </br>
+  ✔️ 땅따먹기  </br>
+  ✔️ 숫자의 표현 </br>
+  ✔️ 최댓값과 최솟값  </br>
+  ✔️ 최솟값 만들기  </br>
+  ✔️ 피보나치 수  </br>
+  ✔️ 행렬의 곱셈  </br>
+  ✔️ JadenCase 문자열 만들기 </br> 
+  ✔️ N개의 최소 공배수  </br>
 
-<h3 align="center">
-  📢 4주차 (2022-07-09) 📢 
-</h4>
-<h4 align="center">
-  
-  
-</h4>
+  ### 📢 2주차 (2022-06-25) 📢
 
-<h3 align="center">
-  📢 5주차 (2022-07-16) 📢
-</h4>
-<h4 align="center">
-  
-  
-</h4>
+  ### 📢 3주차 (2022-07-02) 📢
+
+  ### 📢 4주차 (2022-07-09) 📢 
+
+  ### 📢 5주차 (2022-07-16) 📢
+
 

@@ -3,7 +3,7 @@
 
 <h4 align="center">
   :white_check_mark: 2022-06-18을 1주차 기준으로 5주차 마다 업데이트 예정 </br> </br>
-  :white_check_mark: 알고리즘 문제 풀이 작성 요령 및 마크다운은 해당 링크를 통해서 확인 
+  :white_check_mark: 알고리즘 문제 풀이 작성 요령 및 마크다운은 해당 [링크](https://github.com/PandoraBoxAlgorithm/-/blob/main/%ED%8C%8C%EC%9D%BC%EC%9E%91%EC%84%B1%EB%B2%95.md)를 통해서 확인 
 </h4>
 
 <h3 align="center">

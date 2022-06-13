@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FEFEFE&height=250&section=header&text=Schedule&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 
-
+> :white_check_mark: 5주차마다 내용은 새롭게 갱신하고 기존데이터는 백업 예정  </br>
 > :white_check_mark: 2022-06-18을 1주차 기준으로 5주차 마다 업데이트 예정 </br> </br>
 > :white_check_mark: 알고리즘 문제 풀이 작성 요령 및 마크다운은 아래를 통해서 확인 </br>
 > :white_check_mark: [파일작성요령](https://github.com/PandoraBoxAlgorithm/-/blob/main/%ED%8C%8C%EC%9D%BC%EC%9E%91%EC%84%B1%EB%B2%95.md)

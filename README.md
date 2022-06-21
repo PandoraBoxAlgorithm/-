@@ -30,6 +30,7 @@
   ✔️ 가장 긴 팰린드롬  </br> 
   ✔️ 거스름돈   </br>
   ✔️ 멀리뛰기   </br>
+  ✔️ [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) </br>
   
   ### 📢 3주차 (2022-07-02) 📢
 

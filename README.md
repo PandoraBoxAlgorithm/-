@@ -25,7 +25,7 @@
 
   ### 📢 2주차 (2022-06-25) 📢
 
- ✳️ 문제 내용은 해당 [여기](https://zerocho.com/category/Algorithm/post/5b7bf396b35bf5001b940dc5) 에서 확인 </br></br>
+ ✳️ 문제 내용은 해당 [여기](https://www.zerocho.com/category/Algorithm/post/5b87ccc1553b47001bb08d2b) 에서 확인 </br></br>
   ✔️ 2 x n 타일링  </br> 
   ✔️ 가장 긴 팰린드롬  </br> 
   ✔️ 거스름돈   </br>

@@ -33,6 +33,10 @@
   ✔️ [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) </br>
   
   ### 📢 3주차 (2022-07-02) 📢
+  ✔️ [단체사진](https://programmers.co.kr/learn/courses/30/lessons/1835) </br>
+  ✔️ [N과M](https://www.acmicpc.net/problem/15649) </br>
+  ✔️ [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) </br>
+  ✔️ [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897) </br>
 
   ### 📢 4주차 (2022-07-09) 📢 
 

@@ -39,8 +39,10 @@
   ✔️ [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897) </br>
 
   ### 📢 4주차 (2022-07-09) 📢 
-  ✔️ 2022 7월 깃 데브매칭 문제 풀이 예정 (내용 별도공유)
-
+  ✔️ [숫자게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)
+  ✔️ [다리를지나는트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+  ✔️ [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
+  
   ### 📢 5주차 (2022-07-16) 📢
 
 

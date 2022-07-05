@@ -39,6 +39,8 @@
   ✔️ [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897) </br>
 
   ### 📢 4주차 (2022-07-09) 📢 
+  
+ ✳️ 시간남으면 BFS,DFS,플루이드와샬 알고리즘 3개 숙지하기 5주차로 풀어볼 예정 </br></br>
   ✔️ [숫자게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)    </br>
   ✔️ [다리를지나는트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)    </br>
   ✔️ [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)    </br>

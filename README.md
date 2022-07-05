@@ -39,9 +39,9 @@
   ✔️ [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897) </br>
 
   ### 📢 4주차 (2022-07-09) 📢 
-  ✔️ [숫자게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)
-  ✔️ [다리를지나는트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
-  ✔️ [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
+  ✔️ [숫자게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)    </br>
+  ✔️ [다리를지나는트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)    </br>
+  ✔️ [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)    </br>
   
   ### 📢 5주차 (2022-07-16) 📢
 

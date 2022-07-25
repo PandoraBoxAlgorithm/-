@@ -48,4 +48,6 @@
   ### 📢 5주차 (2022-07-16) 📢
   ✔️ [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)    </br>
   ✔️ [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)    </br>
+  
+  ### 📢 6주차 (2022-07-23) 📢
 

@@ -50,4 +50,9 @@
   ✔️ [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)    </br>
   
   ### 📢 6주차 (2022-07-23) 📢
-
+  ✔️ 최솟값 만들기  </br>
+  ✔️ N개의 최소 공배수  </br>
+  ✔️ [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) </br>
+  ✔️ [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) </br>
+  ✔️ [다리를지나는트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)    </br>
+  ✔️ [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)    </br>

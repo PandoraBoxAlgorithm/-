@@ -56,3 +56,6 @@
   ✔️ [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) </br>
   ✔️ [다리를지나는트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)    </br>
   ✔️ [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)    </br>
+  
+  ### 📢 7주차 (2022-07-30) 📢
+  ✔️ [프로그래머스 중급자체크](https://programmers.co.kr/skill_checks)
